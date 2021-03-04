@@ -6,7 +6,7 @@ This app was made for practice of programming concepts in javascript. Also DOM m
 
 Application shows the budget calculation which includes addition of purchases and income. It'll also show what is current financial condition according to you balance sheet at the time.
 
-
+Live on: [Link](https://lakshaysangwan.github.io/Budget-App/)
 
 UI:
 ![Budget-App](https://i.imgur.com/A0Ix1df.png)
